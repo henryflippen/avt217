@@ -1,0 +1,168 @@
+body{
+  width: 4000px;
+}
+.first{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+  margin: -15px;
+  opacity: .8;
+  border-radius: 100%;
+}
+.second{
+  width: 100px;
+  height: 200px;
+  background-color: orange;
+  float: left;
+  margin: -10px;
+  opacity: .8;
+}
+.third{
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  float: left;
+  margin: -10px;
+  opacity: .8;
+  border-radius: 50%;
+}
+.first2{
+  width: 50px;
+  height: 75px;
+  background-color: red;
+  float: left;
+  margin: -15px;
+  opacity: .8;
+  border-radius: 50%;
+}
+.second2{
+  width: 50px;
+  height: 75px;
+  background-color: green;
+  float: left;
+  margin: -15px;
+  opacity: .8;
+  border-radius: 50%;
+}
+.third2{
+  width: 50px;
+  height: 75px;
+  background-color: green;
+  float: left;
+  margin: 40px;
+  opacity: .8;
+  border-radius: 50%;
+}
+.fourth2{
+  width: 50px;
+  height: 75px;
+  background-color: green;
+  float: left;
+  margin: -15px;
+  opacity: .8;
+  border-radius: 50%;
+}
+.fifth2{
+  width: 50px;
+  height: 75px;
+  background-color: red;
+  float: left;
+  margin: -15px;
+  opacity: .8;
+  border-radius: 50%;
+}
+.first3{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+  margin: -15px;
+  opacity: .8;
+  border-radius: 100%;
+}
+.first4{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  float: left;
+  opacity: .8;
+}
+.second4{
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  float: left;
+  margin: 10px -10px 10px -10px;
+  opacity: .8;
+  border-radius: 100%
+}
+.third4{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: left;
+}
+.fourth4{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+  margin: 75px -25px 10px -25px;
+  opacity: .8;
+}
+/*.fifth4{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  float: left;
+  margin: 75px -100px 10px -75px;
+  opacity: .8;
+  border-radius: 100%
+}*/
+.first5{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+}
+.second5{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  float: left;
+  margin: 0px 100px 10px -100px;
+  opacity: .8;
+  border-radius: 100%
+}
+.third5{
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  float: left;
+  margin-top: 100px;
+  border-radius: 100%
+}
+.fourth5{
+  width: 140px;
+  height: 140px;
+  background-color: pink;
+  float: left;
+  margin: 130px 100px 10px -170px;
+  opacity: .8;
+}
+.fifth5{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+}
+.sixth5{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: left;
+  margin: 0px 100px 10px -100px;
+  opacity: .8;
+  border-radius: 100%
+}
