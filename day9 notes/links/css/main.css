@@ -1,0 +1,35 @@
+body
+{
+  margin: 100px 0 0 0;
+  /*background-color: black;*/
+}
+a.trans {
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: black;
+  text-decoration: none;
+  border-bottom: 4px solid blue;
+  cursor: pointer;
+  transition: color 1s ease;
+}
+a.trans:hover {
+  color: blue;
+}
+h1{
+  text-align: center;
+}
+a.none {
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: blue;
+  text-decoration: none;
+  border-bottom: 4px solid black;
+  cursor: pointer;
+  transition: color 1s ease;
+}
+a.none:hover {
+  color: black;

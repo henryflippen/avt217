@@ -1,0 +1,133 @@
+*{
+  box-sizing: border-box;
+}
+body
+{
+  margin: 0 0 0 0;
+  /*background-color: black;*/
+}
+div{
+  float: left;
+}
+.board{
+  width: 800px;
+  /*background-color: black;*/
+}
+.red{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+.black{
+  width: 100px;
+  height: 100px;
+  background-color: white;
+}
+
+/*tenniscourt*/
+.court{
+  width: 600px;
+}
+.a{
+  float: left;
+}
+.top{
+  width: 600px;
+}
+/*formatting*/
+.padding{
+  padding: 25px;
+}
+.border{
+  border: 5px solid white;
+}
+
+/*boxes*/
+.left{
+  background-color: red;
+  width: 100px;
+  height: 400px;
+}
+.back{
+  background-color: red;
+  width: 400px;
+  height: 200px;
+}
+
+.middle{
+  width: 400px;
+}
+.bot{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+.right{
+  background-color: red;
+  width: 100px;
+  height: 400px;
+}
+
+/*columngrid*/
+.grid{
+  width: 600px;
+}
+.header{
+  width: 600px;
+}
+.head{
+  background-color: red;
+  width: 600px;
+  height: 100px;
+}
+.title{
+  background-color: red;
+  width: 600px;
+  height: 25px;
+}
+
+.text{
+  width: 600px;
+}
+.column{
+  width: 200px;
+  height: 500px;
+  background: red;
+}
+
+/*blog*/
+.margin{
+  padding: 50px 25px 50px 0px;
+  border: 25px solid white;
+}
+
+.blog{
+  width: 800px;
+}
+.blogtitle{
+  background-color: red;
+  width: 800px;
+  height: 100px;
+}
+.photo{
+  background-color: red;
+  width: 600px;
+  height: 250px;
+}
+.sidephoto{
+  background-color: red;
+  width: 75px;
+  height: 125px;
+}
+.subtext{
+  background-color: red;
+  width: 600px;
+  height: 50px;
+}
+.content1{
+  width: 600px;
+}
+.content2{
+  width: 800px;
+  float: left;
+}

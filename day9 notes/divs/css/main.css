@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+}
+body
+{
+  margin: 0 0 0 0;
+  /*background-color: black;*/
+}
+.default
+{
+  width: 300px;
+  height: 300px;
+  background-color: blue;
+  float: left;
+}
+.border
+{
+  border: 10px solid black;
+}
+.border-alt{
+  border: 10px solid black;
+  box-sizing: border-box;
+}
+.margin{
+  margin: 25px;
+}
+.padding{
+  padding: 25px;
+}
+.inside{
+  width: 100%;
+  height: 100%;
+  background-color: red;
+}
