@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+}
+/*position options
+static: default
+absolute: positions something in relation to the window or its positions parent
+relative: positions relative to where it falls on the page
+fixed: positions it and fixes it at that point, scroll does not matter
+*/
+div{
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  position: static;
+  top: 200px;
+  left: 200px;
+}
+.relative{
+  background-color: green;
+  position: relative;
+  top: 200px;
+  left: 200px;
+}
+.relative2{
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+  position: relative;
+  top: 400px;
+  left: 400px;
+}
+.absolute{
+  background-color: red;
+  position: absolute;
+  top:2000px;
+  right: 400px;
+}
+.absolute2{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+.fixed{
+  background-color: firebrick;
+  position: fixed;
+  top: 200px
+  left: 200px;
+}
