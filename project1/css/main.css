@@ -1,3 +1,67 @@
 /* body{
   background-color: red;
 } */
+div{
+  text-align: center;
+  font-size: 48px;
+  position: relative;
+}
+a.trans {
+  color: #67D0FF;
+  text-decoration: none;
+  transition: color 2s ease;
+}
+a.trans:hover {
+  color: red;
+}
+
+.v1{
+  margin: calc((100vh - 488px) / 2) auto;
+  /* background-color: grey; */
+  height: 488px;
+}
+.v2{
+  margin: calc((100vh - 488px) / 2) auto;
+  /* background-color: grey; */
+  height: 488px;
+}
+.v3{
+  margin: calc((100vh - 219px) / 2) auto;
+  /* background-color: grey; */
+  height: 219px;
+}
+.v4{
+  margin: calc((100vh - 109px) / 2) auto;
+  /* background-color: grey; */
+  height: 109px;
+}
+.v5{
+  margin: calc((100vh - 432px) / 2) auto;
+  /* background-color: grey; */
+  height: 432px;
+}
+.v6{
+  margin: calc((100vh - 164px) / 2) auto;
+  /* background-color: grey; */
+  height: 164px;
+}
+.v7{
+  margin: calc((100vh - 488px) / 2) auto;
+  /* background-color: grey; */
+  height: 488px;
+}
+.v8{
+  margin: calc((100vh - 219px) / 2) auto;
+  /* background-color: grey; */
+  height: 219px;
+}
+.v9{
+  margin: calc((100vh - 377px) / 2) auto;
+  /* background-color: grey; */
+  height: 377px;
+}
+.v10{
+  margin: calc((100vh - 274px) / 2) auto;
+  /* background-color: grey; */
+  height: 274px;
+}
