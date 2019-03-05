@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+body {
+}
+h1, h2, h3{
+  font-family: 'PT Serif', serif;
+}
+.text{
+  font-family: 'Hind', sans-serif;
+}
+#container1{
+  width: 400px;
+  margin: 0px auto 0px;
+}
+#chapter1{
+  width: 100px;
+  margin: auto;
+}
+.top{
+  font-family: 'PT Serif', serif;
+
+}
+.container2{
+  width: 300px;
+  margin: 0px auto 25px;
+}
+.title {
+  font-family: 'PT Serif', serif;
+}
+.title5{
+  float: left;
+  margin: 0px 25px 0px 0px;
+}
+.container5{
+  width: 750px;
+  margin: auto;
+}
