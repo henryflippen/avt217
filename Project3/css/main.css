@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-size: 16px;
+  /* background-color: tomato; */
+}
+main {
+  font-family: 'Raleway', sans-serif;
+  width: 80vw;
+  margin: 0;
+}
+p{
+  line-height: 1.4em;
+}
+
+.title {
+  margin: auto;
+  width: 90%;
+  font-size: 24px;
+}
+
+.subtitle {
+  margin: -10px auto;
+  width: 75%;
+  font-size: 10px;
+  opacity: 0.8;
+}
+
+.text-body {
+  margin: auto;
+  width: 90%;
+}
+
+.quote {
+  /* font-size: 12px; */
+  font-style: italic;
+  margin: -10px auto;
+  width: 80%;
+}
+
+.image {
+  background-color: lightgrey;
+}
+
+img {
+  width: 100%;
+  margin: auto;
+}
+
+.text {
+  width: 90%;
+  margin-left: 10px;
+  margin-top: -8px;
+  font-size: 10px;
+}
