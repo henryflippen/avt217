@@ -24,11 +24,12 @@ p{
 .subtitle {
   margin: -10px auto;
   width: 75%;
-  font-size: 10px;
+  font-size: 12px;
   opacity: 0.8;
 }
 
 .text-body {
+  font-size: 18px;
   margin: auto;
   width: 90%;
 }
@@ -37,7 +38,7 @@ p{
   /* font-size: 12px; */
   font-style: italic;
   margin: -10px auto;
-  width: 80%;
+  width: 75%;
 }
 
 .image {
@@ -54,11 +55,36 @@ img {
   margin-left: auto;
   margin-right: auto;
   margin-top: -8px;
-  font-size: 10px;
+  font-size: 12px;
 }
 
 @media only screen and (min-width: 768px) {
   body {
-    background-color: red;
+  }
+  .title {
+    font-size: 28px;
+  }
+  .subtitle {
+    font-size: 14px;
+  }
+  .text-body {
+    font-size: 20px;
+    width: 65%;
+  }
+  .text {
+    width: 65%;
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  body {
+    background-color: blue;
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  body {
+    background-color: green;
   }
 }
