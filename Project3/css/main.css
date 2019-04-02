@@ -79,12 +79,37 @@ img {
 
 @media only screen and (min-width: 1024px) {
   body {
-    background-color: blue;
+  }
+  .text-body {
+    font-size: 20px;
+    width: 50%;
+  }
+  .text {
+    width: 50%;
+    font-size: 14px;
+  }
+  .subtitle {
+    width: 55%;
+  }
+  .quote {
+    width: 55%;
+    font-size: 18px;
+  }
+  .image {
+    width: 70%;
+    margin-left: 15%;
   }
 }
 
 @media only screen and (min-width: 1440px) {
   body {
-    background-color: green;
+  }
+  .title {
+    font-size: 36px;
+    width: 75%;
+  }
+  .image {
+    width: 60%;
+    margin-left: 20%;
   }
 }
