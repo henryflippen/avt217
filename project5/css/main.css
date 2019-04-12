@@ -1,0 +1,48 @@
+body {
+	margin: 0;
+	color: black;
+}
+#container {
+
+	width: 100vw;
+	margin: 50vw auto;
+	padding: 100px 0 0 0;
+}
+
+h1, p {
+	margin: 0;
+}
+h1 {
+	background-color: aquamarine;
+	font-size: 48px;
+	text-align: center;
+	font-family: sans-serif;
+	/*text-transform: uppercase;*/
+	letter-spacing: 2px;
+}
+input {
+	width: 100vw;
+	height: 40px;
+	margin-top: 50px;
+	font-size: 30px;
+	padding: 25px 0;
+	text-align: center;
+}
+.button {
+	width: 100vw;
+	background-color: orange;
+	color: aquamarine;
+	border-radius: 5px;
+	padding: 10px 15px;
+	margin: 50px auto;
+}
+.button:hover {
+	cursor: pointer;
+}
+.button p {
+	text-align: center;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
