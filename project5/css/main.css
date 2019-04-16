@@ -3,9 +3,9 @@ body {
 	color: black;
 }
 #container {
-
+	text-align: center;
 	width: 100vw;
-	margin: 50vw auto;
+	margin: 25vw auto;
 	padding: 100px 0 0 0;
 }
 
@@ -13,15 +13,16 @@ h1, p {
 	margin: 0;
 }
 h1 {
-	background-color: aquamarine;
+	/*background-color: aquamarine;*/
 	font-size: 48px;
 	text-align: center;
 	font-family: sans-serif;
+	margin-top: 50px;
 	/*text-transform: uppercase;*/
 	letter-spacing: 2px;
 }
 input {
-	width: 100vw;
+	width: 50vw;
 	height: 40px;
 	margin-top: 50px;
 	font-size: 30px;
@@ -29,7 +30,7 @@ input {
 	text-align: center;
 }
 .button {
-	width: 100vw;
+	width: 25vw;
 	background-color: orange;
 	color: aquamarine;
 	border-radius: 5px;
@@ -45,4 +46,7 @@ input {
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-weight: bold;
+}
+.visibility{
+	visibility: hidden;
 }
